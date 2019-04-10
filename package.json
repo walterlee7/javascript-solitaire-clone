@@ -1,0 +1,23 @@
+{
+    "name": "solitaire",
+    "version": "1.0.0",
+    "description": "This is a click to move Solitaire game in JavaScript/BootStrap cloned from Brent Alexander's project: https://codepen.io/bfa/pen/ggGYeE.",
+    "main": "solitaire.js",
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/walterlee7/javascript-solitaire-clone.git"
+    },
+    "keywords": [],
+    "author": "Walter Lee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/walterlee7/javascript-solitaire-clone/issues"
+    },
+    "homepage": "https://walterlee7.github.io/javascript-solitaire-clone",
+    "devDependencies": {
+        "gh-pages": "^2.0.1"
+    }
+}
